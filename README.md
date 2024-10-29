@@ -15,3 +15,7 @@ La primera estructura fue una LSO (Lista Secuencial Ordenada) era, en simples pa
 Esto fue divertido, ya que lograr hacer funcionar el árbol fue jodido al principio, pero es divertido de codificar.
 Aquí se agregó un elemento más, el costo de Alta(inserción), Baja(eliminación) y Evocación tanto exitosa como no exitosa (Retornar el elemento si es que lo encuentra).
 Cabe recalcar que se mantiene la LSO y se le agrega ésta característica.
+También, no se puede agregar, eliminar, modificar ni evocar ningún elemento de las estructuras manualmente, todo se trabaja sobre un txt con operaciones automáticas.
+Costos finales y cantidad de elementos:
+<p align="center"><img width="500" height="350" src="https://github.com/user-attachments/assets/40d8a48e-0bb8-46b9-acd5-41363d7d0456"/></p>
+Otra condición no menor, es que a la hora de mostar los elementos del ABB tuvimos que tratarlo como una pila y no recursivamente (más lavorioso e implica otra estructura).
