@@ -24,3 +24,6 @@ Costos finales y cantidad de elementos:
 Sus costos se basan en localizaciones, ya que no se hacen corrimientos dentro de sus altas y bajas. Por eso mismo fue bastante sencillo.
 Estos son los últimos costos:
 <p align="center"><img width="500" height="350" src="https://github.com/user-attachments/assets/4558bd59-57ba-4b23-a057-d88d1ba388d9"/></p>
+
+
+  El archivo .lua son pseudocódigos que pueden tomar en la materia, creanme van a necesitar cómo funcionan todas y cada unas de las estructuras. Éstos pueden ayudarles a entender cómo hacerlas o entenderlas.
